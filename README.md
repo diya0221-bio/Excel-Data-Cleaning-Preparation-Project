@@ -5,8 +5,13 @@ This project focuses on cleaning and preparing a raw, messy business dataset usi
 Data Cleaning Steps Performed
 
 ✔ Fixed broken and unreadable date values
+
 ✔ Standardized text fields (client, department, region)
+
 ✔ Cleaned and formatted currency values
+
 ✔ Handled missing values using logical placeholders
+
 ✔ Corrected numerical columns for accurate calculations
+
 ✔ Structured the dataset for further analysis
