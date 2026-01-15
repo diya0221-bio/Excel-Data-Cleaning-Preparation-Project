@@ -15,3 +15,12 @@ Data Cleaning Steps Performed
 ✔ Corrected numerical columns for accurate calculations
 
 ✔ Structured the dataset for further analysis
+
+
+🔹 Before vs After
+
+Before: Raw, inconsistent, unreadable data with formatting and missing value issues
+
+After: Clean, structured, standardized, and analysis-ready dataset
+
+(Screenshots included in repository)
